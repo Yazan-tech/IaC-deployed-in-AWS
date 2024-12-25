@@ -1,7 +1,7 @@
 <!-- 
 Thank you for testing this project. We appreciate your feedback and support!
 -->
-
+ 
 <!-- Existing content of the XML file here -->
 
 <rss version="2.0">
@@ -35,7 +35,7 @@ Thank you for testing this project. We appreciate your feedback and support!
   <!-- More existing items here... -->
 </item>
 
-<!-- You can continue adding new items or sections as needed -->
+<!-- You can continue adding new more items or sections as needed -->
 
 </channel>
 </rss>
